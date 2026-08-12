@@ -11,3 +11,10 @@ Pure-Black:
   ha-card-box-shadow: 'none'
   label-badge-grey: 'black'
   state-icon-color: 'white'
+  ha-color-form-background: 'black'
+  ha-color-form-background-hover: 'black'
+  ha-color-form-background-disabled: 'black'
+  mdc-theme-surface: "#2f2f2f"
+  input-ink-color: 'white'
+  input-dropdown-icon-color: 'white' 
+  ha-color-fill-primary-quiet-resting: 'black'
