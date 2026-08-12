@@ -10,8 +10,8 @@ Installation
 (If you're not yet using the [Home Assistant Community Store (HACS)](https://hacs.xyz/), then do that first and come back here.)
 
 - Open HACS from within Home Assistant
-- Search for "Blackout" or even "Loryan"
-- Click on "Blackout Theme"
+- Search for "pureblack"
+- Click on "Pure Black Theme"
 - Click "Download"
 
 <br>
