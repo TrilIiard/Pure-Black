@@ -1,7 +1,7 @@
 ## Pure Black theme for Home Assistant
 
 
-Installation
+Installation:
 
 <br>
 
