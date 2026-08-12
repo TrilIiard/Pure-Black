@@ -1,11 +1,11 @@
-Pure Black theme for Home Assistant
+## Pure Black theme for Home Assistant
 
 
 ## Installation
 
 <br>
 
-### With HACS (recommended)
+ With HACS (recommended)
 
 (If you're not yet using the [Home Assistant Community Store (HACS)](https://hacs.xyz/), then do that first and come back here.)
 
@@ -16,12 +16,12 @@ Pure Black theme for Home Assistant
 
 <br>
 
-### Without HACS
+Without HACS
 
 Download the **pureblack.yaml** file from the themes folder in this repository and copy it to your themes folder in Home Assistant.
 
 
 <br><br>
-### After either installation method
+## After either installation method
 
 Regardless of installation method chosen you will need to refresh your browser.
