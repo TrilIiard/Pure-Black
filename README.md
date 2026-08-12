@@ -24,4 +24,4 @@ Download the **pureblack.yaml** file from the themes folder in this repository a
 
 <br>
 You will need to refresh your Browser or clear cache of Browser or Home Assistant Companion App.
-Sometimes you need to reload "All YAML configuration" in Home assistant Tools. 
+Sometimes you need to reload "All YAML configuration" in Home assistant Tools. Activate the theme in your Profile in Home Assistant. 
