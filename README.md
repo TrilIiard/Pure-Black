@@ -10,7 +10,8 @@ Installation
 (If you're not yet using the [Home Assistant Community Store (HACS)](https://hacs.xyz/), then do that first and come back here.)
 
 - Open HACS from within Home Assistant
-- Search for "pureblack"
+- Add Custom Repository "https://github.com/TrilIiard/Pure-Black"
+- Search for "pure"
 - Click on "Pure Black Theme"
 - Click "Download"
 
