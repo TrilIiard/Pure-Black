@@ -1,4 +1,4 @@
-## Pure Black theme for Home Assistant
+## Pure Black OLED AMOLED Theme for Home Assistant with White Icons
 
 
 Installation:
