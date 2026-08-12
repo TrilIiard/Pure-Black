@@ -23,6 +23,4 @@ Download the **pureblack.yaml** file from the themes folder in this repository a
 
 
 <br>
-After either installation method
-
 You will need to refresh your Browser or clear cache of Browser or Home Assistant Companion App.
