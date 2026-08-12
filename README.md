@@ -1,6 +1,7 @@
 ## Pure Black OLED AMOLED Theme for Home Assistant with White Icons
 
-
+<img src="https://i.imgur.com/FE8I0XO.png" alt="" style="width:20%; height:auto;"> <img src="https://i.imgur.com/1NNQj4r.png" alt="" style="width:20%; height:auto;"> <img src="https://i.imgur.com/C1oWXOw.png" alt="" style="width:20%; height:auto;"> <img src="https://i.imgur.com/JDZQNDU.png" alt="" style="width:20%; height:auto;"> <img src="https://i.imgur.com/vEJXiLQ.png" alt="" style="width:20%; height:auto;"> <img src="https://i.imgur.com/KyGDeuu.png" alt="" style="width:20%; height:auto;">
+<br>
 Installation:
 
 <br>
