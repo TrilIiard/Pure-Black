@@ -1,0 +1,13 @@
+Pure-Black:
+  primary-background-color: 'black'
+  secondary-background-color: 'black'
+  clear-background-color: 'black'
+  card-background-color: 'black'
+  primary-text-color: 'white'
+  secondary-text-color: 'grey'
+  card-border-color: 'transparent'
+  ha-card-border-width: '0px'
+  ha-card-border-radius: '0px'
+  ha-card-box-shadow: 'none'
+  label-badge-grey: 'black'
+  state-icon-color: 'white'
